@@ -8,7 +8,7 @@ trigger:
 
 pool:
  MyPool
-
+ Azure Pipelines
 steps:
 - task: Maven@3
   inputs:
